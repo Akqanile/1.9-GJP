@@ -1,0 +1,12 @@
+[submodule "external/Dobby"]
+	path = external/Dobby
+	url = https://github.com/jmpews/Dobby.git
+[submodule "external/minhook"]
+	path = external/minhook
+	url = https://github.com/TsudaKageyu/minhook.git
+[submodule "external/base64"]
+	path = external/base64
+	url = https://github.com/aklomp/base64.git
+[submodule "external/KittyMemory"]
+	path = external/KittyMemory
+	url = https://github.com/MJx0/KittyMemory.git
